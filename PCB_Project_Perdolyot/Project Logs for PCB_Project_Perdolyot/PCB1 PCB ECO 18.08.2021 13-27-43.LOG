@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetD6_16 Pin=R9-1
+Removed Pin From Net: NetName=NetD6_19 Pin=R14-1
+Removed Pin From Net: NetName=NetD6_16 Pin=U1-4
+Removed Pin From Net: NetName=NetD6_19 Pin=U4-4
+Added Pin To Net: NetName=NetD6_19 Pin=R9-1
+Added Pin To Net: NetName=NetD6_16 Pin=R14-1
+Added Pin To Net: NetName=NetD6_19 Pin=U1-4
+Added Pin To Net: NetName=NetD6_16 Pin=U4-4
+Added Member To Class: ClassName=—хема_узел_поворотников Member=Component VT2 MOSFET N-channel transistor, 80V, 7A, 9.1nC, 2.5W, 34mOhm, 756pF, 8-TDSON, -55...+150∞C
